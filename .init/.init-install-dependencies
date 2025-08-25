@@ -1,0 +1,4 @@
+{
+    "command": "npm install --legacy-peer-deps",
+    "working_directory": "/home/kavia/workspace/code-generation/responsive-tic-tac-toe-game-4279-4288/tic_tac_toe_frontend"
+}
